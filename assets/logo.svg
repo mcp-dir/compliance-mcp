@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Compliance & Sanções">
+  <rect width="512" height="512" rx="96" fill="#FFFFFF"/>
+  <path d="M256 96 L392 152 V268 C392 352 332 404 256 432 C180 404 120 352 120 268 V152 Z" fill="#2563EB"/>
+  <path d="M210 260 l30 30 l62 -68" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
